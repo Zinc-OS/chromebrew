@@ -6,7 +6,7 @@ class Minecraft < Package
   version '2.2.1867'
   compatibility 'x86_64'
   source_url 'https://launcher.mojang.com/download/Minecraft.deb'
-  source_sha256 '9a8b6b75db199461ae241fbee6adf65fc6636204c58eb79feff968e307464727'
+  source_sha256 'eb65d55c2c76cc20234a3a6912ef34e0dce27cdb7fa55f54d7215ba54a01ffb4'
 
   depends_on 'libx11'
   depends_on 'jdk8'
